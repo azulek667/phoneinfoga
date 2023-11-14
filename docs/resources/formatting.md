@@ -4,9 +4,9 @@
 
 The tool only accepts E164 and International formats as input.
 
-- E164: +3396360XXXX
-- International: +33 9 63 60 XX XX
-- National: 09 63 60 XX XX
+- E164: +33 611941028
+- International: +33 6 11 94 10 28
+- National: 06 11 94 10 28
 - RFC3966: tel:+33-9-63-60-XX-XX
 - Out-of-country format from US: 011 33 9 63 60 XX XX
 
